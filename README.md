@@ -25,5 +25,3 @@ Text clustering and text categorization:
 - Hidden Markov models: Probabilistic models used for sequential data analysis, such as text.
 
 These topics will provide a solid foundation for understanding and applying text mining techniques in various domains.
-
-Note: The above summary provides an overview of the course content, and it is recommended to refer to the course materials for a more comprehensive understanding of the subject matter.
